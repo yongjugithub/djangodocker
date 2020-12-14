@@ -1,5 +1,6 @@
 # djangodocker
 Docker  files for Django
+Django>=3.0,<4.0
 
 ```
 git init
